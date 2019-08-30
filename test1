@@ -1,0 +1,18 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Aug 30 12:02:34 2019
+
+@author: jyc5978
+"""
+#%%
+a=1
+b=3
+bread='크림빵'
+print(b)
+
+
+#%%
+print(bread)
+
+#%%
+    
